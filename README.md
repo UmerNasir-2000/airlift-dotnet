@@ -10,6 +10,7 @@ It is an e-commerce platform for ordering grocery, essentials, medicines & much 
 4. Razor Pages
 5. Bootstrap
 6. JWT & Bcrypt
+7. Fluent Validation
 
 ## Features
 
